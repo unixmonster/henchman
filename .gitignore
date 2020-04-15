@@ -30,3 +30,4 @@ modules/*/*.linux
 *.pem
 .DS_Store
 .idea
+.vscode
