@@ -31,3 +31,4 @@ modules/*/*.linux
 .DS_Store
 .idea
 .vscode
+pnpm-debug.log
