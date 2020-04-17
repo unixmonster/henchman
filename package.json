@@ -1,0 +1,20 @@
+{
+  "name": "prism-cli",
+  "version": "1.0.0",
+  "description": "A cli for prism",
+  "main": "main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "go build -o bin/prism"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unixmonster/prism-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unixmonster/prism-cli/issues"
+  },
+  "homepage": "https://github.com/unixmonster/prism-cli#readme"
+}
